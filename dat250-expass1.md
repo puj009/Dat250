@@ -35,6 +35,8 @@ was not necessary for our assignment, so I skipped that part.
 
 The last problem I encountered was with **heroku pg:psql**. Since I did not have **Postgres** installed on my computer 
 I had to do it to make the command execute. This was a confusing process, but I maneged to do it after some attempts. 
+After this my terminal did still not recognize the command, and I found out I had to update my PATH to \bin. After I did
+this the command worked. 
 
 This is the web-URL for my tutorial: 
 <https://shrouded-savannah-37500.herokuapp.com>
