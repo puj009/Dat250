@@ -24,12 +24,17 @@ Here are the CURD operations:
 
 #### Experiment 2
 I completed the tutorial, and the screenshot is of a map-reduce operation on the **orders** collection using three
-functions I made. There is also a query to verify the results. 
+functions from the tutorial. There is also a query to verify the results. 
 ![](\Users\solma\OneDrive\Documents\UiB\Dat250\Assignment\3\map_reduce.png)
+Here is the database that was created:
+![](\Users\solma\OneDrive\Documents\UiB\Dat250\Assignment\3\fruit.png)
 
 
 ### My Map-reduce
-
+For my map-reduce function I looked at what day (order day) got the most sales (high price) in the **orders** database. 
+It can be useful to look at what day people order the most to maybe help the sales of the items. 
+Here are my commands:
+![](\Users\solma\OneDrive\Documents\UiB\Dat250\Assignment\3\my_map_reduce.png)
 
 ### Any pending issues
-There were no pending issues this time. 
+There were no pending issues this time :)  
