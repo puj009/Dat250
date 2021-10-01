@@ -6,9 +6,8 @@ I also had to change the port I was running **App** on because I already had som
 Except for this there were no technical issues. 
 
 
-
-### [Link to code for experiment 2-4]()
+### [Link to code for experiment 2](https://github.com/puj009/todos)
 
 
 ### Pending issues
-Had problems connecting to the database. Cannot figure out what is wrong at this time. 
+I was unable to connect to my database. Could not figure out what was wrong. 
