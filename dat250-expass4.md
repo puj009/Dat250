@@ -6,7 +6,9 @@ I also had to change the port I was running **App** on because I already had som
 Except for this there were no technical issues. 
 
 
-### [Link to code for experiment 2-4](https://github.com/puj009/dat250-sparkjava-counter)
+
+### [Link to code for experiment 2-4]()
 
 
 ### Pending issues
+Had problems connecting to the database. Cannot figure out what is wrong at this time. 
