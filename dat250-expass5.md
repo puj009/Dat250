@@ -2,8 +2,9 @@
 
 ### The Tutorials
 * Experiment 1: No problems. 
-* Experiment 2: Had some problems cloning the repository, so I just added it to the same as experiment 1 and copied in
-all of the files needed.
+* Experiment 2: Had some problems cloning the repository, so I just added it to the same repository as experiment 1 
+and copied in all the files needed.
+* Experiment 3: 
 
 
 ### link
